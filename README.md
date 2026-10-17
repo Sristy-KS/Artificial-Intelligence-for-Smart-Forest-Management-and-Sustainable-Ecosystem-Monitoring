@@ -158,16 +158,16 @@ smart-forest-ai/
     
 ## 7. Installation & Setup
 1. Clone the Repository
-Bash
-git clone [https://github.com/your-username/smart-forest-ai.git](https://github.com/your-username/smart-forest-ai.git)
-cd smart-forest-ai
+
+git clone https://github.com/Sristy-KS/Artificial-Intelligence-for-Smart-Forest-Management-and-Sustainable-Ecosystem-Monitoring
+
 
 2. Set Up a Virtual Environment
-# Windows
+ Windows
 python -m venv venv
 venv\Scripts\activate
 
-# Linux / macOS
+ Linux / macOS
 python3 -m venv venv
 source venv/bin/activate
 
